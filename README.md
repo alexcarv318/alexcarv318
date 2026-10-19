@@ -1,4 +1,9 @@
-- 👋 Hi, I’m @alexcarv318
-- 👀 I’m keep on diving deep into development, focusing primarily on Python with aspirations to explore other programming languages. Transitioning towards becoming a full-stack developer, I am particularly eager to enhance my JavaScript and markup skills, given my strong inclination towards web development. Moreover, I'm intrigued by emerging technologies and seek to venture into the realm of machine learning.
-- 🌱 Currently, I'm immersed in mastering developer skills while actively contributing to the growth of a dynamic startup environment.
-📫 You can reach me via email: alexilchenko2005@gmail.com or on Telegram: https://t.me/alexandrcarvalho.
+<div align="center">
+
+<img src="assets/whoami.svg" alt="Terminal session. $ whoami → Alexandre Ilchenko (@alexcarv318). role: software & AI engineer. speaks: Portuguese, Ukrainian, English, Python, TypeScript, Go. building, obsessed and past lives rotate on every loop (for example: building knowledge bases for companies with 15 years of PDFs and no idea what's in them; obsessed with happy clients, the paying kind; past lives: scraped the internet, politely). day job: leading a small team that ships AI products. open source: mostly closed-source, take my word for it. works on: my machine. status: shipping.">
+
+<sub>Most of what I build lives behind NDAs and private repos. Say hi anyway:</sub>
+<br>
+<a href="mailto:alexilchenko2005@gmail.com">email</a> · <a href="https://t.me/alexandrcarvalho">telegram</a>
+
+</div>

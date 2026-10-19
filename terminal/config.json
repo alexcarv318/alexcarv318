@@ -1,0 +1,65 @@
+{
+  "prompt": "alexcarv318@github",
+  "command": "whoami",
+  "name": "Alexandre Ilchenko",
+  "handle": "(@alexcarv318)",
+  "rows": [
+    {
+      "key": "role",
+      "value": "software & AI engineer"
+    },
+    {
+      "key": "speaks",
+      "value": "Portuguese, Ukrainian, English, Python, TypeScript, Go"
+    },
+    {
+      "key": "building",
+      "values": [
+        "knowledge bases for companies with 15 years of PDFs and no idea what's in them",
+        "AI assistants for lawyers (yes, they check the citations)",
+        "tools that read the boring documents so humans don't have to",
+        "sophisticated memory for AI agents (they forget everything I tell them)",
+        "desktop apps in Tauri (400 MB for a notes app is a choice)",
+        "apps on Cloudflare Workers, because servers are a lifestyle choice",
+        "web apps that load fast and look like someone cared"
+      ]
+    },
+    {
+      "key": "obsessed",
+      "values": [
+        "happy clients (the paying kind)",
+        "the moment a client says \"perfect, ship it\"",
+        "invoices that get paid for work that gets praised"
+      ]
+    },
+    {
+      "key": "past lives",
+      "values": [
+        "scraped the internet (politely)",
+        "got blocked by half the internet, rotated proxies, tried again",
+        "connected e-commerce APIs that all define \"order\" differently",
+        "survived enterprise Java (Spring, Hibernate, Liquibase)",
+        "10+ Upwork clients, and one \"quick five-minute change\"",
+        "wrote Telegram bots when every startup needed one",
+        "Django, then Flask, then FastAPI happened"
+      ]
+    },
+    {
+      "key": "day job",
+      "value": "leading a small team that ships AI products"
+    },
+    {
+      "key": "open source",
+      "value": "mostly closed-source. take my word for it." },
+    {
+      "key": "works on",
+      "value": "my machine"
+    },
+    {
+      "key": "status",
+      "value": "shipping",
+      "color": "green"
+    }
+  ],
+  "loop_seconds": 20
+}
